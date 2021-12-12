@@ -12,13 +12,13 @@ ntp.mtak.nl is reachable over IPv4 and IPv6. It is also part of the [NTP Pool Pr
 
 ## Current NTP server status
 
-![ntpq](http://ntp.mtak.nl/stats/ntpq.png)
+![ntpq](https://mtak.nl/rp/gps1.int.mtak.nl/stats/ntpq.png)
 
 ## GPS Status
 
 This visualization shows the location of the currently used GNSS satellites in the sky, as seen from the GPS receiver.
 
-![polarused](http://ntp.mtak.nl/stats/polarused.png)
+![polarused](https://mtak.nl/rp/gps1.int.mtak.nl/stats/polarused.png)
 
 # Details
 
