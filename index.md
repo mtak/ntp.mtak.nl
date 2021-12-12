@@ -4,6 +4,8 @@ ntp.mtak.nl is a public stratum 1 time service. The time source is a GPS module 
 
 ntp.mtak.nl is reachable over IPv4 and IPv6. It is also part of the [NTP Pool Project](https://www.ntppool.org/).
 
+[NTP Project Server Page](https://www.pool.ntp.org/scores/2001:1c00:2509:8205::5)
+
 # Details
 
 ![overview](overview.png)
