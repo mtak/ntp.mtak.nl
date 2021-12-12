@@ -2,7 +2,7 @@
 
 ntp.mtak.nl is a public stratum 1 time service. The time source is a GPS module with PPS output.
 
-ntp.mtak.nl is reachable over IPv4 and IPv6. It is also part of the [NTP Pool Project](https://www.ntppool.org/)
+ntp.mtak.nl is reachable over IPv4 and IPv6. It is also part of the [NTP Pool Project](https://www.ntppool.org/).
 
 # Details
 
@@ -27,3 +27,5 @@ Power is fed in from the bottom of the pedestal (to prevent water ingress) from 
 The power for the device is fed through a window with a flat cable, allowing the window to fully close.
 
 ![power2](ntp4.jpg)
+
+The LED you see in the black box is the FIX output of the GPS Hat. This shows if the GPS Hat has a fix on a satellite.
