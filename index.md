@@ -14,6 +14,12 @@ The time service is powered by an [Adafruit Ultimate GPS Hat](https://www.adafru
 
 ## Stats
 
+### Current NTP server status
+
+![ntpq](http://ntp.mtak.nl/stats/ntpq.png)
+
+### GPS Status
+
 This visualization shows the location of the currently used GNSS satellites in the sky, as seen from the GPS receiver.
 
 ![polarused](http://ntp.mtak.nl/stats/polarused.png)
