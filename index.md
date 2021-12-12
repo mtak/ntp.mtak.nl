@@ -12,7 +12,7 @@ The time service is powered by an [Adafruit Ultimate GPS Hat](https://www.adafru
 
 ## Build
 
-Clear view of the sky is required to receive GPS data. I solved this issue by placing the NTP server outside on the roof of the annex of my house, in a 3D printed waterproof case.The whole assembly is mounted on a street tile, so it clears the edge of the roof. This gives plenty of sky access, and the typically there are more than 15 GNSS (GPS + GLONASS) satellites in view. 
+Clear view of the sky is required to receive GPS data. I solved this issue by placing the NTP server outside on the roof of the annex of my house, in a 3D printed waterproof case.The whole assembly is mounted on a street tile, so it clears the edge of the roof. This gives plenty of sky access and typically there are more than 15 GNSS (GPS + GLONASS) satellites in view. 
 
 ![full](ntp1.jpg)
 
