@@ -12,7 +12,13 @@ ntp.mtak.nl is reachable over IPv4 and IPv6. It is also part of the [NTP Pool Pr
 
 The time service is powered by an [Adafruit Ultimate GPS Hat](https://www.adafruit.com/product/2324), connected to a [Raspberry Pi Zero 2 W](https://www.raspberrypi.com/products/raspberry-pi-zero-2-w/). 
 
-## Build
+## Stats
+
+This visualization shows the location of the currently used GNSS satellites in the sky, as seen from the GPS receiver.
+
+![polarused](http://ntp.mtak.nl/stats/polarused.png)
+
+# Build
 
 Clear view of the sky is required to receive GPS data. I solved this issue by placing the NTP server outside on the roof of the annex of my house, in a 3D printed waterproof case.The whole assembly is mounted on a street tile, so it clears the edge of the roof. This gives plenty of sky access and typically there are more than 15 GNSS (GPS + GLONASS) satellites in view. 
 
